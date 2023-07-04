@@ -52,6 +52,4 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 4. Push to your branch: `git push origin feature/your-feature` or `git push origin bugfix/your-bugfix`.
 5. Submit a pull request explaining your changes and their benefits.
 
-## License
 
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for more details.
